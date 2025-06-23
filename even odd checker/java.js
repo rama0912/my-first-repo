@@ -3,6 +3,6 @@ function checkNumber() {
   if (num % 2 === 0) {
     document.getElementById("result").innerText = "It's Even";
   } else{
-    document.getElementById("result").innerText = "It's Odd."
+    document.getElementById("result").innerText = "It's Odd number."
   }
 }
